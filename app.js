@@ -13,7 +13,7 @@ var char;
 	char = char.replace(/ɒ=/g, "æ");
 	char = char.replace(/æ=/g, "a");
 	char = char.replace(/e=/g, "ə");
-	char = char.replace(/ɛ=/g, "ɛ");
+	char = char.replace(/ə=/g, "ɛ");
 	char = char.replace(/ɛ=/g, "e");
 	char = char.replace(/o=/g, "ɔ");
 	char = char.replace(/ɔ=/g, "o");
